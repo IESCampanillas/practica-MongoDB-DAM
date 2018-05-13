@@ -11,3 +11,5 @@ Sigue cualquiera de estos repositorios para instalar y aprender MongoDB:
 [MongoDB para Ubuntu](https://github.com/evaperales/mongodb)
 
 ### Índice para la práctica de MongoDB
+
+* [Fernández García, Jose Antonio](https://github.com/joseanfernandez/MongoDB)
