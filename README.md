@@ -1,4 +1,4 @@
-# Práctica-MongoDB-DAW-2018
+# Práctica-MongoDB-DAM-2018
 
 ## Práctica no obligatoria de MongoDB. Fecha limite de entrega: 21 de Mayo 
 
@@ -15,5 +15,6 @@ Sigue cualquiera de estos repositorios para instalar y aprender MongoDB:
 * [Fernández García, Jose Antonio](https://github.com/joseanfernandez/MongoDB)
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/MONGODB)
 * [García Fernández, Guillermo](https://github.com/GuillermoGarcia/MongoDB)
+* [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/MongoDB)
 * [Vargas Galán, Jesús](https://github.com/jesusvargasgalan/MONGO-DB)
 
